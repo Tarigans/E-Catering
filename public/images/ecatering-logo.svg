@@ -1,0 +1,17 @@
+<svg width="220" height="64" viewBox="0 0 220 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">E-Catering logo</title>
+  <desc id="desc">Warm food cloche logo with E-Catering wordmark.</desc>
+  <rect width="220" height="64" rx="14" fill="#FFF7ED"/>
+  <circle cx="34" cy="32" r="22" fill="#F97316"/>
+  <path d="M17 41.5h34" stroke="#FFF7ED" stroke-width="4" stroke-linecap="round"/>
+  <path d="M22 39c1.7-9.2 6.2-14 12-14s10.3 4.8 12 14H22Z" fill="#FFF7ED"/>
+  <path d="M31.5 22.2c0-1.7 1.1-3 2.5-3s2.5 1.3 2.5 3" stroke="#FFF7ED" stroke-width="3" stroke-linecap="round"/>
+  <path d="M43.5 19.2c7.5-.6 11.9 3.7 12 10.1-6.8.9-11.1-2.2-12-10.1Z" fill="#16803C"/>
+  <path d="M45.5 21.2c2.9 1.1 5.1 2.8 7 5.4" stroke="#FFF7ED" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M67 20.5h35v7.8H76v6.8h23.2v7.4H76v7.2h26.6v7.8H67v-37Z" fill="#26201C"/>
+  <path d="M107 39.5c0-10.9 8.2-19.6 20-19.6 7.1 0 12.5 2.6 16.1 7.2l-6.4 5.2c-2.4-2.9-5.3-4.5-9.2-4.5-6.4 0-10.9 4.8-10.9 11.7s4.5 11.7 10.9 11.7c3.9 0 6.8-1.6 9.2-4.6l6.4 5.2c-3.6 4.7-9 7.3-16.1 7.3-11.8 0-20-8.7-20-19.6Z" fill="#E84A2A"/>
+  <path d="M148.6 28.9h8.4v4.3c1.9-3.1 5.1-4.8 9.1-4.8v8.2c-.8-.1-1.4-.1-2.1-.1-4.3 0-7.1 2.4-7.1 7.6v13.4h-8.4V28.9Z" fill="#26201C"/>
+  <path d="M170.8 20.5h8.4v37h-8.4v-37Z" fill="#26201C"/>
+  <path d="M184.8 43.2c0-8.6 6.7-14.8 15.9-14.8 9.3 0 15.9 6.2 15.9 14.8S210 58 200.7 58c-9.2 0-15.9-6.2-15.9-14.8Zm23.2 0c0-4.9-3.1-7.9-7.3-7.9-4.1 0-7.2 3-7.2 7.9s3.1 7.9 7.2 7.9c4.2 0 7.3-3 7.3-7.9Z" fill="#16803C"/>
+  <path d="M67.5 13.5h46" stroke="#F97316" stroke-width="3" stroke-linecap="round"/>
+</svg>
